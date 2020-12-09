@@ -18,7 +18,9 @@ My friends recommended that I try the company out.
 ## Why you think you are a great fit for the position
 ## Tell me somethinh good about previous project
 There was this whole phase when I was asked to add missing features
-as in polishing existing features, according to requriments
+as in polishing existing features, according to requriments.
+
+where I fixid:
 #### 1. Sign in
 ##### Requrments
 1. Sign in using OTP
