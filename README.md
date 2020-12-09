@@ -21,9 +21,8 @@ There was this whole phase when I was asked to add missing features
 as in polishing existing features, according to requriments
 #### 1. Sign in
 ##### Requrments
-1. Sign in using Mobile number and OTP
-2. Mobile number and password
-3. Email and password.
+1. Sign in using OTP
+2. Sign in using password
 ##### Things that was alredy there when I first started working with the code
 1. sign in form (both forms)
 2. sign in with password form (did not work on mobile app)
