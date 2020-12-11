@@ -40,7 +40,7 @@ where I fixid:
  -  wrong email or password could be 1. wrong password, 2. email not registered, 3. mobile not registered.
  
  #### 2. Sign up
- I wrote code to make sure the mobile number and email entered while registration was unique (this was really a side fix 'cause it was taking me to an error page while signing in if there were more than one mobile or email entry in the database)
+ I wrote code to make sure the mobile number and email entered while registration was unique (this was really a side fix because it was taking me to an error page while signing in if there were more than one account registered with same mobile or email entry in the database)
  
 ## why was it good
 it was really cool experience because it gave me the sense of giving to the end user what I expect as an end user.
